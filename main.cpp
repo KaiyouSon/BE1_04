@@ -1,8 +1,8 @@
+#define _SILENCE_STDEXT_ARR_ITERS_DEPRECATION_WARNING
 #include <Novice.h>
 #include <array>
 #include <cpprest/filestream.h>
 #include <cpprest/http_client.h>
-#define _SILENCE_STDEXT_ARR_ITERS_DEPRCATION_WARNING
 
 using namespace utility;
 using namespace web;
